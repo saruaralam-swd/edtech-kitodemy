@@ -2,8 +2,6 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-/*carousel: Changes position of caption */
-
 .filter {
   filter: brightness(70%);
 }
@@ -24,3 +22,7 @@ body {
   color: blue;
 }
 /*ready to join end*/
+
+.logo {
+  width: 120px;
+}
