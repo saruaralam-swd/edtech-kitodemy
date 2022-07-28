@@ -1,0 +1,26 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/*carousel: Changes position of caption */
+
+.filter {
+  filter: brightness(70%);
+}
+/*carousel: Changes position of caption end */
+
+/*institute section bg */
+.text-bg {
+  background-color: #f4fafd;
+}
+
+/*ready to join */
+.join_now {
+  background-color: #289bde;
+}
+
+.join_btn {
+  background-color: white;
+  color: blue;
+}
+/*ready to join end*/
