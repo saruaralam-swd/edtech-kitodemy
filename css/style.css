@@ -6,6 +6,13 @@ body {
   filter: brightness(70%);
 }
 /*carousel: Changes position of caption end */
+.carousel-caption h2 {
+  font-size: 4vw;
+}
+
+.carousel-caption p {
+  font-size: 2vw;
+}
 
 /*institute section bg */
 .text-bg {
@@ -21,7 +28,6 @@ body {
   background-color: white;
   color: blue;
 }
-/*ready to join end*/
 
 .logo {
   width: 120px;
